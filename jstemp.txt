@@ -1,0 +1,12 @@
+maps.google.com/maps/api/js?sensor=false&key=' . MAP_API_KEY
+STATIC_CMW_PATH . '/js/searchLBS.js
+
+haha.php
+https://www.mobile01.com/topicdetail.php?f=506&t=3337497
+
+http://well-being-ng.net/wiki1231/index.php?title=Google%E5%9C%B0%E5%9C%96/%E6%88%91%E7%9A%84%E5%9C%B0%E5%9C%96
+
+https://blog.patw.me/archives/471/html5-browser-access-location-notes/
+
+
+http://lms.ctl.cyut.edu.tw/sysdata/53/20253/doc/bde3934073d34191/attach/1094276.htm
